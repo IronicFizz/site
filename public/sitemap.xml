@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ironiclisawu.github.io/categories/</loc>
-  </url><url>
     <loc>https://ironiclisawu.github.io/</loc>
+    <lastmod>2024-05-05T18:01:31+08:00</lastmod>
+  </url><url>
+    <loc>https://ironiclisawu.github.io/posts/</loc>
+    <lastmod>2024-05-05T18:01:31+08:00</lastmod>
+  </url><url>
+    <loc>https://ironiclisawu.github.io/categories/</loc>
   </url><url>
     <loc>https://ironiclisawu.github.io/tags/</loc>
   </url>
